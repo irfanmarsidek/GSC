@@ -41,6 +41,7 @@ public class CreditInfo extends javax.swing.JFrame {
         cn3 = new javax.swing.JTextField();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Credit/Debit Card");
         setLocation(new java.awt.Point(200, 100));
 
         jLabel1.setText("Card Number");
